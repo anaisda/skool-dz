@@ -387,7 +387,7 @@ button {
     content: '';
     position: absolute;
     inset: 0;
-    background-image: url('hero-students.jpg');
+    background-image: url('students.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
