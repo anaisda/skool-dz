@@ -2,7 +2,11 @@
 <html lang="fr" dir="ltr">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+    <meta name="theme-color" content="#16875d">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
     <title>Skool DZ - Excellence Académique</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -18,13 +22,15 @@
                     <img src="skooldz.png" alt="Skool DZ" class="logo-image" onerror="this.style.display='none'">
                 </div>
             </div>
+            
             <div class="nav-menu">
                 <a href="#home" class="nav-link active" data-translate="nav.home">Accueil</a>
                 <a href="#courses" class="nav-link" data-translate="nav.courses">Cours</a>
                 <a href="#features" class="nav-link" data-translate="nav.features">Fonctionnalités</a>
                 <a href="#about" class="nav-link" data-translate="nav.about">À propos</a>
             </div>
-            <!-- Language Switcher (in navbar) -->
+            
+            <!-- Language Switcher -->
             <div class="language-switcher">
                 <div class="lang-dropdown" id="lang-dropdown">
                     <button class="lang-current" id="lang-current">
@@ -40,7 +46,13 @@
                     </div>
                 </div>
             </div>
-            <img src="logo.png" alt="Skool DZ Logo" class="nav-logo-img" onerror="this.style.display='none'">
+            
+            <!-- Mobile Menu Toggle -->
+            <button class="menu-toggle" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
         </div>
     </nav>
 
