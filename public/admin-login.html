@@ -460,10 +460,27 @@
 
         /* ========== RESPONSIVE ========== */
         @media (max-width: 768px) {
+            body {
+                padding: 1rem;
+            }
+            
+            .login-container {
+                padding: 2rem 1.5rem;
+            }
+            
+            .login-logo {
+                font-size: 2rem;
+            }
+            
             .dashboard-header {
                 flex-direction: column;
                 gap: 1rem;
                 align-items: flex-start;
+                padding: 1rem;
+            }
+            
+            .dashboard-title {
+                font-size: 1.5rem;
             }
 
             .dashboard-content {
@@ -477,18 +494,115 @@
             .tabs {
                 flex-wrap: nowrap;
                 overflow-x: auto;
+                -webkit-overflow-scrolling: touch;
+                scrollbar-width: none;
+                -ms-overflow-style: none;
+            }
+            
+            .tabs::-webkit-scrollbar {
+                display: none;
             }
 
             .tab-btn {
                 padding: 0.75rem 1.5rem;
+                font-size: 0.875rem;
+            }
+            
+            .card {
+                padding: 1.5rem;
+            }
+            
+            .card-title {
+                font-size: 1.25rem;
             }
 
+            /* Make tables scrollable */
+            .table-container {
+                overflow-x: auto;
+                -webkit-overflow-scrolling: touch;
+            }
+            
             table {
-                font-size: 0.875rem;
+                font-size: 0.8125rem;
+                min-width: 600px;
             }
 
             th, td {
+                padding: 0.625rem 0.75rem;
+                white-space: nowrap;
+            }
+            
+            .btn-action {
+                padding: 0.5rem 0.875rem;
+                font-size: 0.8125rem;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .login-container {
+                padding: 1.5rem 1rem;
+            }
+            
+            .login-logo {
+                font-size: 1.75rem;
+            }
+            
+            .login-subtitle {
+                font-size: 0.875rem;
+            }
+            
+            .form-input, .form-select, .form-textarea {
                 padding: 0.75rem 1rem;
+                font-size: 1rem;
+            }
+            
+            .dashboard-header {
+                padding: 0.875rem;
+            }
+            
+            .dashboard-title {
+                font-size: 1.25rem;
+            }
+            
+            .btn-logout {
+                padding: 0.5rem 1rem;
+                font-size: 0.875rem;
+            }
+            
+            .dashboard-content {
+                padding: 0.75rem;
+            }
+            
+            .card {
+                padding: 1rem;
+                margin-bottom: 1rem;
+            }
+            
+            .card-title {
+                font-size: 1.125rem;
+            }
+            
+            .tab-btn {
+                padding: 0.625rem 1.25rem;
+                font-size: 0.8125rem;
+            }
+            
+            table {
+                font-size: 0.75rem;
+                min-width: 550px;
+            }
+            
+            th, td {
+                padding: 0.5rem 0.625rem;
+            }
+            
+            .form-label {
+                font-size: 0.875rem;
+            }
+            
+            .btn-primary {
+                padding: 0.875rem 1.5rem;
+                font-size: 0.9375rem;
             }
         }
 
@@ -525,6 +639,7 @@
             border: 2px solid var(--gray-200);
             border-radius: 8px;
             font-family: inherit;
+            font-size: 1rem;
         }
     </style>
 </head>
