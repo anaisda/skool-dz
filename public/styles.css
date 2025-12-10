@@ -1549,3 +1549,21 @@ html[dir="rtl"] .btn-primary-modern:hover svg {
         order: 3;
     }
 }
+/* Container Fixes for Courses and Features */
+.features-modern,
+.container-modern {
+    max-width: 1400px;           /* 1. Limits how wide the content can get */
+    margin: 0 auto;              /* 2. Centers the content in the middle of the screen */
+    padding-left: 2rem;          /* 3. Adds space on the left side */
+    padding-right: 2rem;         /* 4. Adds space on the right side */
+    width: 100%;                 /* Ensures it takes up space within the max-width */
+}
+
+/* Specific fix for Mobile to ensure space stays there */
+@media (max-width: 768px) {
+    .features-modern,
+    .container-modern {
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+    }
+}
