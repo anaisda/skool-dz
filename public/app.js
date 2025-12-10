@@ -100,19 +100,19 @@ const translations = {
         'filter.all': 'Toutes les filières',
         'filter.sciences': 'Sciences Exp.',
         'filter.math': 'Mathématiques',
-        'filter.lettres': 'Lettres et Philosophie',
-        'filter.gestion': 'Gestion et Économie',
+        'filter.lettres': 'Lettres & Philosophie',
+        'filter.gestion': 'Gestion & Économie',
         'course.register': 'S\'inscrire maintenant',
         'features.badge': 'Ce que nous offrons',
         'features.title': 'Fonctionnalités premium',
         'features.community': 'Communauté active',
-        'features.communityText': 'Rejoins des groupes d\'étude et bénéficie d\'un suivi personnalisé de tes progrès',
+        'features.communityText': 'Rejoins des groupes d\'étude et bénéficie d\'un suivi personnalisé',
         'features.zoom': 'Sessions Zoom en direct',
-        'features.zoomText': 'Cours exclusifs 1-on-1 avec nos meilleurs professeurs',
+        'features.zoomText': 'Des cours exclusifs en tête-à-tête avec nos meilleurs professeurs',
         'features.recorded': 'Bibliothèque complète',
         'features.recordedText': 'Accès illimité à tous les cours enregistrés',
         'features.plans': 'Plans personnalisés',
-        'features.plansText': 'Un planning adapté à tes objectifs académiques',
+        'features.plansText': 'Un programme adapté à tes objectifs académiques',
         'features.time': 'Gestion du temps',
         'features.timeText': 'Optimise ton organisation pour maximiser tes résultats',
         'features.more': 'Et bien plus encore...',
@@ -133,62 +133,62 @@ const translations = {
         'register.paymentInfo': 'Informations de paiement :',
         'register.submit': 'Confirmer l\'inscription',
         'success.registration': 'Inscription soumise avec succès !',
-        'error.registration': 'Erreur lors de la soumission. Veuillez réessayer.',
+        'error.registration': 'Erreur lors de l\'envoi de l\'inscription. Veuillez réessayer.',
         'error.general': 'Une erreur s\'est produite. Veuillez réessayer.'
     },
     ar: {
         'nav.home': 'الرئيسية',
-        'nav.courses': 'الدروس',
+        'nav.courses': 'الدورات',
         'nav.features': 'المميزات',
-        'nav.about': 'معلومات',
+        'nav.about': 'من نحن',
         'badge.trusted': '✨ منصة موثوقة لأكثر من 500+ طالب',
         'hero.title1': 'انضم إلينا اليوم',
         'hero.title2': 'حوّل مستقبلك',
-        'hero.subtitle': 'منصة تميز أكاديمي مصممة لطلاب الثانوية الجزائريين. دورات عالية الجودة، معلمون خبراء، ودعم شخصي.',
-        'hero.explore': 'استكشف الدروس',
+        'hero.subtitle': 'منصة تميّز أكاديمي مصممة لطلاب الثانوية الجزائريين. دورات عالية الجودة، أساتذة خبراء، ودعم شخصي.',
+        'hero.explore': 'استكشف الدورات',
         'hero.learn': 'اكتشف المميزات',
         'reasons.badge': 'لماذا تختار Skool DZ',
         'reasons.title': 'أسباب نجاحك',
         'reasons.reason1': 'أساتذة متميزون',
-        'reasons.desc1': 'سنوات من الخبرة والشغف بالتدريس',
-        'reasons.reason2': 'إتقان تام',
-        'reasons.desc2': 'خبراء في كل مادة يتم تدريسها',
+        'reasons.desc1': 'سنوات من الخبرة والشغف بالتعليم',
+        'reasons.reason2': 'إتقان مطلق',
+        'reasons.desc2': 'خبراء في كل مادة',
         'reasons.reason3': 'مكرسون لنجاحك',
         'reasons.desc3': 'دعم شخصي لكل طالب',
-        'reasons.reason4': 'أساليب مبتكرة',
-        'reasons.desc4': 'مناهج تعليمية قائمة على البحث',
-        'reasons.reason5': '512 تمرين متدرج',
+        'reasons.reason4': 'طرق مبتكرة',
+        'reasons.desc4': 'أساليب تعليمية قائمة على البحث',
+        'reasons.reason5': '512 تمرين تدريجي',
         'reasons.desc5': 'تدريب مكثف لتحقيق تقدم سريع',
-        'stats.students': 'طالب نشط',
+        'stats.students': 'طلاب نشطون',
         'stats.success': 'معدل النجاح',
-        'stats.courses': 'دورة متاحة',
+        'stats.courses': 'دورات متاحة',
         'courses.badge': 'برامجنا',
-        'courses.title': 'الدروس المتاحة',
-        'courses.subtitle': 'دروس مخصصة لجميع شعب البكالوريا الجزائرية',
+        'courses.title': 'الدورات المتاحة',
+        'courses.subtitle': 'دورات مصممة لجميع شعب البكالوريا الجزائرية',
         'filter.all': 'جميع الشعب',
         'filter.sciences': 'علوم تجريبية',
         'filter.math': 'رياضيات',
         'filter.lettres': 'آداب وفلسفة',
-        'filter.gestion': 'تسيير واقتصاد',
-        'course.register': 'سجل الآن',
+        'filter.gestion': 'إدارة واقتصاد',
+        'course.register': 'سجّل الآن',
         'features.badge': 'ما نقدمه',
-        'features.title': 'مميزات متميزة',
+        'features.title': 'مميزات مميزة',
         'features.community': 'مجتمع نشط',
-        'features.communityText': 'انضم إلى مجموعات الدراسة واحصل على متابعة شخصية لتقدمك',
+        'features.communityText': 'انضم إلى مجموعات الدراسة واحصل على متابعة شخصية',
         'features.zoom': 'جلسات Zoom مباشرة',
-        'features.zoomText': 'دورات حصرية فردية مع أفضل معلمينا',
+        'features.zoomText': 'دورات حصرية فردية مع أفضل أساتذتنا',
         'features.recorded': 'مكتبة كاملة',
-        'features.recordedText': 'وصول غير محدود لجميع الدروس المسجلة',
+        'features.recordedText': 'وصول غير محدود لجميع الدورات المسجلة',
         'features.plans': 'خطط شخصية',
-        'features.plansText': 'جدول زمني مكيف مع أهدافك الأكاديمية',
+        'features.plansText': 'برنامج مصمم حسب أهدافك الأكاديمية',
         'features.time': 'إدارة الوقت',
         'features.timeText': 'حسّن تنظيمك لتحقيق أقصى النتائج',
         'features.more': 'والمزيد...',
         'features.moreText': 'أدوات وموارد لإرشادك نحو التميز',
-        'about.badge': 'معلومات عنا',
+        'about.badge': 'من نحن',
         'about.title': 'التميز في خدمة نجاحك',
-        'about.description': 'وُلدت Skool DZ من رؤية: إضفاء الطابع الديمقراطي على الوصول إلى التعليم الجيد لجميع طلاب الثانوية الجزائريين. نحن نجمع بين الخبرة التربوية والتكنولوجيا الحديثة والدعم الشخصي لمساعدتك على تحقيق أهدافك الأكاديمية وإطلاق إمكاناتك.',
-        'about.feature1': 'معلمون معتمدون وذوو خبرة',
+        'about.description': 'وُلدت Skool DZ من رؤية: إتاحة الوصول إلى تعليم عالي الجودة لجميع طلاب الثانوية الجزائريين. نجمع بين الخبرة التربوية والتكنولوجيا الحديثة والدعم الشخصي لمساعدتك على تحقيق أهدافك الأكاديمية وإطلاق إمكاناتك.',
+        'about.feature1': 'أساتذة معتمدون وذوو خبرة',
         'about.feature2': 'منصة متاحة 24/7',
         'about.feature3': 'متابعة شخصية للتقدم',
         'about.discover': 'اكتشف دوراتنا',
@@ -217,11 +217,66 @@ document.addEventListener('DOMContentLoaded', () => {
     loadCourses();
     setupLanguageSwitcher();
     setupNavigation();
+    setupMobileMenu();
     setupFilterTabs();
     setupFileUpload();
     applyTranslations();
     updateDirection();
 });
+
+// Mobile Menu Toggle
+function setupMobileMenu() {
+    const menuToggle = document.querySelector('.menu-toggle');
+    const navMenu = document.querySelector('.nav-menu');
+    const navLinks = document.querySelectorAll('.nav-link');
+    
+    if (!menuToggle || !navMenu) return;
+    
+    // Toggle menu on hamburger click
+    menuToggle.addEventListener('click', (e) => {
+        e.stopPropagation();
+        menuToggle.classList.toggle('active');
+        navMenu.classList.toggle('active');
+        
+        // Prevent body scroll when menu is open
+        if (navMenu.classList.contains('active')) {
+            document.body.style.overflow = 'hidden';
+        } else {
+            document.body.style.overflow = '';
+        }
+    });
+    
+    // Close menu when clicking on nav links
+    navLinks.forEach(link => {
+        link.addEventListener('click', () => {
+            menuToggle.classList.remove('active');
+            navMenu.classList.remove('active');
+            document.body.style.overflow = '';
+        });
+    });
+    
+    // Close menu when clicking outside
+    document.addEventListener('click', (e) => {
+        if (!navMenu.contains(e.target) && !menuToggle.contains(e.target)) {
+            menuToggle.classList.remove('active');
+            navMenu.classList.remove('active');
+            document.body.style.overflow = '';
+        }
+    });
+    
+    // Close menu on window resize if it's open
+    let resizeTimer;
+    window.addEventListener('resize', () => {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(() => {
+            if (window.innerWidth > 768) {
+                menuToggle.classList.remove('active');
+                navMenu.classList.remove('active');
+                document.body.style.overflow = '';
+            }
+        }, 250);
+    });
+}
 
 // Language switcher
 function setupLanguageSwitcher() {
@@ -229,6 +284,8 @@ function setupLanguageSwitcher() {
     const currentBtn = document.getElementById('lang-current');
     const currentText = document.getElementById('current-lang-text');
     const langBtns = document.querySelectorAll('.lang-btn');
+    
+    if (!dropdown || !currentBtn || !currentText) return;
     
     // Language display names
     const langNames = {
@@ -346,17 +403,19 @@ function showSection(sectionId) {
         targetLink.classList.add('active');
     }
     
-    window.scrollTo(0, 0);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
 // Filter tabs
 function setupFilterTabs() {
-    const filterTabs = document.querySelectorAll('.pill-btn');
-    filterTabs.forEach(tab => {
-        tab.addEventListener('click', () => {
-            currentFilter = tab.dataset.branch;
-            filterTabs.forEach(t => t.classList.remove('active'));
-            tab.classList.add('active');
+    const filterBtns = document.querySelectorAll('.pill-btn');
+    filterBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+            currentFilter = btn.dataset.filter;
+            
+            filterBtns.forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            
             renderCourses();
         });
     });
@@ -365,105 +424,79 @@ function setupFilterTabs() {
 // File upload
 function setupFileUpload() {
     const fileInput = document.getElementById('reg-receipt');
-    if (fileInput) {
+    const fileName = document.getElementById('file-name');
+    
+    if (fileInput && fileName) {
         fileInput.addEventListener('change', (e) => {
-            const fileName = e.target.files[0]?.name || translations[currentLang]['register.chooseFile'];
-            const fileNameSpan = document.getElementById('file-name');
-            if (fileNameSpan) {
-                fileNameSpan.textContent = fileName;
+            if (e.target.files.length > 0) {
+                fileName.textContent = e.target.files[0].name;
+            } else {
+                fileName.textContent = translations[currentLang]['register.chooseFile'];
             }
         });
     }
 }
 
-// Load courses from API
+// Load courses
 async function loadCourses() {
     try {
         const response = await fetch('/api/courses');
-        courses = await response.json();
-        renderCourses();
+        if (response.ok) {
+            courses = await response.json();
+            renderCourses();
+        }
     } catch (error) {
         console.error('Error loading courses:', error);
     }
 }
 
+// Render courses
 function renderCourses() {
-    const coursesGrid = document.getElementById('courses-grid');
-    if (!coursesGrid) return;
+    const container = document.querySelector('.courses-grid-modern');
+    if (!container) return;
     
     const filteredCourses = currentFilter === 'all' 
         ? courses 
-        : courses.filter(course => course.branch === currentFilter || course.branch === 'all');
+        : courses.filter(course => course.branch === currentFilter);
     
     if (filteredCourses.length === 0) {
-        const noCoursesMsg = {
-            'fr': 'Aucun cours disponible pour cette filière.',
-            'ar': 'لا توجد دروس متاحة لهذه الشعبة.',
-            'en': 'No courses available for this branch.'
-        };
-        
-        coursesGrid.innerHTML = `
-            <div style="grid-column: 1/-1; text-align: center; padding: 3rem;">
-                <p style="font-size: 1.2rem; color: #666;">${noCoursesMsg[currentLang]}</p>
+        container.innerHTML = `
+            <div style="grid-column: 1/-1; text-align: center; padding: 4rem; color: var(--gray-500);">
+                <p style="font-size: 1.125rem;">Aucun cours disponible pour cette filière</p>
             </div>
         `;
         return;
     }
     
-    coursesGrid.innerHTML = filteredCourses.map(course => {
-        const courseName = currentLang === 'ar' ? course.name_ar : 
-                          currentLang === 'fr' ? course.name_fr : course.name_en;
-        const courseDesc = currentLang === 'ar' ? course.description_ar : 
-                          currentLang === 'fr' ? course.description_fr : course.description_en;
-        
+    container.innerHTML = filteredCourses.map(course => {
         const branchNames = {
-            'sciences': {
-                'en': 'Exp. Sciences',
-                'fr': 'Sciences Exp.',
-                'ar': 'علوم تجريبية'
-            },
-            'math': {
-                'en': 'Mathematics',
-                'fr': 'Mathématiques',
-                'ar': 'رياضيات'
-            },
-            'technique': {
-                'en': 'Tech Math',
-                'fr': 'Tech. Math',
-                'ar': 'تقني رياضي'
-            },
-            'gestion': {
-                'en': 'Management',
-                'fr': 'Gestion',
-                'ar': 'تسيير واقتصاد'
-            },
-            'lettres': {
-                'en': 'Letters',
-                'fr': 'Lettres',
-                'ar': 'آداب وفلسفة'
-            },
-            'all': {
-                'en': 'All',
-                'fr': 'Toutes',
-                'ar': 'جميع الشعب'
-            }
+            'sciences': { fr: 'Sciences Exp.', ar: 'علوم تجريبية', en: 'Exp. Sciences' },
+            'math': { fr: 'Mathématiques', ar: 'رياضيات', en: 'Mathematics' },
+            'technique': { fr: 'Tech. Math', ar: 'تقني رياضي', en: 'Tech. Math' },
+            'gestion': { fr: 'Gestion', ar: 'تسيير', en: 'Management' },
+            'lettres': { fr: 'Lettres', ar: 'آداب', en: 'Letters' },
+            'all': { fr: 'Toutes', ar: 'الكل', en: 'All' }
         };
         
+        const courseName = course[`name_${currentLang}`] || course.name_fr;
+        const courseDesc = course[`description_${currentLang}`] || course.description_fr;
         const branchName = branchNames[course.branch]?.[currentLang] || course.branch;
         
         return `
-            <div class="course-card-modern" onclick="openRegistrationModal(${course.id})">
-                ${course.image_path ? 
-                    `<img src="${course.image_path}" alt="${courseName}" class="course-image-modern">` :
-                    '<div class="course-image-modern" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);"></div>'
-                }
+            <div class="course-card-modern">
+                <div class="course-image-modern">
+                    ${course.image_url ? 
+                        `<img src="${course.image_url}" alt="${courseName}" loading="lazy">` : 
+                        '<div style="background: linear-gradient(135deg, var(--primary-600) 0%, var(--primary-500) 100%); height: 100%;"></div>'
+                    }
+                    <div class="course-badge-modern">${branchName}</div>
+                </div>
                 <div class="course-content-modern">
-                    <span class="course-badge-modern">${branchName}</span>
                     <h3 class="course-title-modern">${courseName}</h3>
                     ${courseDesc ? `<p class="course-description-modern">${courseDesc}</p>` : ''}
                     <div class="course-footer-modern">
-                        <span class="course-price-modern">${course.price.toLocaleString()} DZD</span>
-                        <button class="btn-course-modern">
+                        <div class="course-price-modern">${course.price.toLocaleString()} DZD</div>
+                        <button class="btn-enroll" onclick="openRegistration(${course.id})" data-translate="course.register">
                             ${translations[currentLang]['course.register']}
                         </button>
                     </div>
@@ -474,59 +507,83 @@ function renderCourses() {
 }
 
 // Registration modal
-function openRegistrationModal(courseId) {
+function openRegistration(courseId) {
     const modal = document.getElementById('registration-modal');
-    modal.classList.add('active');
     document.getElementById('reg-course-id').value = courseId;
-    
-    // Reset form
-    document.getElementById('registration-form').reset();
-    const fileNameSpan = document.getElementById('file-name');
-    if (fileNameSpan) {
-        fileNameSpan.textContent = translations[currentLang]['register.chooseFile'];
-    }
+    modal.classList.add('active');
+    document.body.style.overflow = 'hidden';
 }
 
 function closeRegistrationModal() {
-    document.getElementById('registration-modal').classList.remove('active');
+    const modal = document.getElementById('registration-modal');
+    modal.classList.remove('active');
+    document.getElementById('registration-form').reset();
+    document.getElementById('file-name').textContent = translations[currentLang]['register.chooseFile'];
+    document.body.style.overflow = '';
 }
 
-// Handle registration form submission
-const regForm = document.getElementById('registration-form');
-if (regForm) {
-    regForm.addEventListener('submit', async (e) => {
-        e.preventDefault();
-        
-        const formData = new FormData();
-        formData.append('courseId', document.getElementById('reg-course-id').value);
-        formData.append('fullName', document.getElementById('reg-fullname').value);
-        formData.append('contact', document.getElementById('reg-contact').value);
-        formData.append('receipt', document.getElementById('reg-receipt').files[0]);
-        
-        try {
-            const response = await fetch('/api/registrations', {
-                method: 'POST',
-                body: formData
-            });
+// Handle registration form
+document.addEventListener('DOMContentLoaded', () => {
+    const form = document.getElementById('registration-form');
+    if (form) {
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
             
-            if (response.ok) {
-                alert(translations[currentLang]['success.registration']);
-                closeRegistrationModal();
-            } else {
-                alert(translations[currentLang]['error.registration']);
+            const formData = new FormData();
+            formData.append('course_id', document.getElementById('reg-course-id').value);
+            formData.append('full_name', document.getElementById('reg-fullname').value);
+            formData.append('contact', document.getElementById('reg-contact').value);
+            formData.append('receipt', document.getElementById('reg-receipt').files[0]);
+            
+            const submitBtn = form.querySelector('button[type="submit"]');
+            const originalText = submitBtn.innerHTML;
+            submitBtn.disabled = true;
+            submitBtn.innerHTML = '<span>⏳ Envoi en cours...</span>';
+            
+            try {
+                const response = await fetch('/api/registrations', {
+                    method: 'POST',
+                    body: formData
+                });
+                
+                const data = await response.json();
+                
+                if (response.ok) {
+                    alert(translations[currentLang]['success.registration']);
+                    closeRegistrationModal();
+                } else {
+                    alert(data.error || translations[currentLang]['error.registration']);
+                }
+            } catch (error) {
+                console.error('Registration error:', error);
+                alert(translations[currentLang]['error.general']);
+            } finally {
+                submitBtn.disabled = false;
+                submitBtn.innerHTML = originalText;
             }
-        } catch (error) {
-            console.error('Error:', error);
-            alert(translations[currentLang]['error.general']);
-        }
-    });
-}
+        });
+    }
+});
 
-// Close modal when clicking outside
-document.querySelectorAll('.modal-modern').forEach(modal => {
-    modal.addEventListener('click', (e) => {
-        if (e.target.classList.contains('modal-modern')) {
-            modal.classList.remove('active');
+// Close modal when clicking overlay
+document.addEventListener('click', (e) => {
+    if (e.target.classList.contains('modal-overlay')) {
+        closeRegistrationModal();
+    }
+});
+
+// Close modal with Escape key
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+        closeRegistrationModal();
+        
+        // Also close mobile menu if open
+        const menuToggle = document.querySelector('.menu-toggle');
+        const navMenu = document.querySelector('.nav-menu');
+        if (menuToggle && navMenu && navMenu.classList.contains('active')) {
+            menuToggle.classList.remove('active');
+            navMenu.classList.remove('active');
+            document.body.style.overflow = '';
         }
-    });
+    }
 });
